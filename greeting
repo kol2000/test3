@@ -1,0 +1,10 @@
+// Создание переменной
+var name = "John";
+
+// Создание функции
+function greeting() {
+  console.log("Hello " + name);
+}
+
+// Вызов функции
+greeting();
